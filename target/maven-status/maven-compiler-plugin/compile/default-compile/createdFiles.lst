@@ -1,6 +1,0 @@
-com/the42duck/App.class
-com/the42duck/the42duckbackend/SecurityConfig.class
-com/the42duck/the42duckbackend/service/UserService.class
-com/the42duck/the42duckbackend/controller/AuthController.class
-com/the42duck/the42duckbackend/repository/UserRepository.class
-com/the42duck/the42duckbackend/model/User.class
