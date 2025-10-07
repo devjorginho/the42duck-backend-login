@@ -7,7 +7,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name = "app_user") // Evita conflito com palavras reservadas
+@Table(name = "app_user")
 public class User {
 
     @Id
@@ -16,9 +16,9 @@ public class User {
 
     private String username;
     private String email;
-    private String password; // <- adicionamos a senha
+    private String password;
 
-    // Construtores
+
     public User() {}
 
     public User(String username, String email, String password) {
@@ -27,7 +27,7 @@ public class User {
         this.password = password;
     }
 
-    // Getters e Setters
+   
     public Long getId() { return id; }
     public void setId(Long id) { this.id = id; }
 
