@@ -1,0 +1,167 @@
+[33mcommit a29ab26d505ba81072987a3d275e80835ad7aae2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 11:30:38 2025 +0100
+
+    t
+
+[33mcommit ed422e6f7195d3b73ef16729502d783f9ad7f63d[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 11:26:09 2025 +0100
+
+    t
+
+[33mcommit 5d88712d2d498810511cc1b04b46a5b9614b9e2f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 11:20:13 2025 +0100
+
+    t
+
+[33mcommit a6ae520f741ee350d8f39fb5f722913d20c4f833[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 11:09:17 2025 +0100
+
+    t
+
+[33mcommit ec69f661cf8f4c2c7becce25a208b4efe96f54ad[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 10:25:34 2025 +0100
+
+    t
+
+[33mcommit faa6db8dbddb59a2144236e1f6a1c209168b8201[m
+Author: Jorge Carvalho <jcarvalho.swe@gmail.com>
+Date:   Tue Oct 7 10:19:48 2025 +0100
+
+    Update README.md
+
+[33mcommit 52e8dc38f97f983cc09bd48860a556e10c7cc187[m
+Author: Jorge Carvalho <jcarvalho.swe@gmail.com>
+Date:   Tue Oct 7 09:53:14 2025 +0100
+
+    Update README.md
+
+[33mcommit 90e365fce9c458d487be0482c0775840884581ec[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 09:45:35 2025 +0100
+
+    t
+
+[33mcommit 7b668ce99740965cc2956559df0473a05da95834[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 09:40:28 2025 +0100
+
+    t
+
+[33mcommit f140c18077fc77e0f0b072c41daebbbe08a643a6[m
+Author: Jorge Carvalho <jcarvalho.swe@gmail.com>
+Date:   Tue Oct 7 08:47:05 2025 +0100
+
+    Update README.md
+
+[33mcommit 2fb3e8cfaeda6cde44f3b63d46faf17724cd68c0[m
+Author: Jorge Carvalho <jcarvalho.swe@gmail.com>
+Date:   Tue Oct 7 08:45:06 2025 +0100
+
+    Create README.md
+
+[33mcommit 50a1c0fe357e64c1f782190eefd0c6d70be1bf60[m
+Author: Jorge Carvalho <jcarvalho.swe@gmail.com>
+Date:   Tue Oct 7 08:43:38 2025 +0100
+
+    Update SecurityConfig.java
+
+[33mcommit 562a31b9f43cb0e20b690c1d35e0d85c82f0cc1b[m
+Author: Jorge Carvalho <jcarvalho.swe@gmail.com>
+Date:   Tue Oct 7 08:43:23 2025 +0100
+
+    Update The42DuckBackendApplication.java
+
+[33mcommit 6cbd66ae7822ffd12a9152fe05b47a8d296b0188[m
+Author: Jorge Carvalho <jcarvalho.swe@gmail.com>
+Date:   Tue Oct 7 08:42:59 2025 +0100
+
+    Update User.java
+
+[33mcommit cfa575eb7963ae4e1eaeb98f2569aeaedbc03133[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 08:13:38 2025 +0100
+
+    t
+
+[33mcommit d90ab00c90fbc43fdae3e4a2edda070b5bf0a093[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 08:07:45 2025 +0100
+
+    t
+
+[33mcommit 2810c3ec2288286e1877509303812cc5d61313eb[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 08:03:45 2025 +0100
+
+    Configuração do datasource PostgreSQL Railway
+
+[33mcommit 5d8005d19d80fffe00cf3a40049e03ea62545d3e[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 07:52:28 2025 +0100
+
+    Configuração do datasource PostgreSQL Railway
+
+[33mcommit 4a668d539c973915fa2a8affebdaee5a819617a4[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 07:47:14 2025 +0100
+
+    Configuração do datasource PostgreSQL Railway
+
+[33mcommit cc5e80df000eaf921c4a321c75eb976819173ad0[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 07:34:03 2025 +0100
+
+    t
+
+[33mcommit 6bb7954ae836b93a8808ce10f630f24fd1678495[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 07:31:33 2025 +0100
+
+    t
+
+[33mcommit 18044f647a626d53a50c24062aec1f792ffb70e6[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 07:20:03 2025 +0100
+
+    t
+
+[33mcommit a15e3a5b787b17cb0edb860816d3e295052f7d6e[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 07:15:22 2025 +0100
+
+    t
+
+[33mcommit ebcadc3d10a14c19794f48089e1412249ca1ef95[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 07:07:53 2025 +0100
+
+    t
+
+[33mcommit 7dc0e6f30b0bc7459ecc26c0ea2b29aff4a11adc[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 07:06:01 2025 +0100
+
+    t
+
+[33mcommit b50b89e3be333bdee293325410d223a6ec18cc59[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 07:00:12 2025 +0100
+
+    t
+
+[33mcommit f139c0e1f2ba4a1369f467857e88db128b18af66[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 06:55:36 2025 +0100
+
+    t
+
+[33mcommit 67bed46260b5b52826835cd35ae91a23e8814a71[m
+Author: devjorginho <jcarvalho.sweb@gmail.com>
+Date:   Tue Oct 7 06:40:34 2025 +0100
+
+    t
