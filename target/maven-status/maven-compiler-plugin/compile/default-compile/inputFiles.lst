@@ -2,7 +2,6 @@
 /home/devjorginho/Área de trabalho/the42duck-backend/src/main/java/com/the42duck/the42duckbackend/SecurityConfig.java
 /home/devjorginho/Área de trabalho/the42duck-backend/src/main/java/com/the42duck/the42duckbackend/The42DuckBackendApplication.java
 /home/devjorginho/Área de trabalho/the42duck-backend/src/main/java/com/the42duck/the42duckbackend/config/PasswordConfig.java
-/home/devjorginho/Área de trabalho/the42duck-backend/src/main/java/com/the42duck/the42duckbackend/config/SecurityConfig.java
 /home/devjorginho/Área de trabalho/the42duck-backend/src/main/java/com/the42duck/the42duckbackend/controller/AuthController.java
 /home/devjorginho/Área de trabalho/the42duck-backend/src/main/java/com/the42duck/the42duckbackend/controller/TestController.java
 /home/devjorginho/Área de trabalho/the42duck-backend/src/main/java/com/the42duck/the42duckbackend/model/User.java
