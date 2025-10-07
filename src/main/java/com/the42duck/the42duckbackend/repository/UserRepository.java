@@ -2,9 +2,9 @@ package com.the42duck.the42duckbackend.repository;
 
 import com.the42duck.the42duckbackend.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.stereotype.Repository;
+import java.util.Optional;
 
-@Repository
 public interface UserRepository extends JpaRepository<User, Long> {
-    // Podemos adicionar métodos personalizados aqui depois
+    Optional<User> findByUsername(String username);
+    Optional<User> findByEmail(String email);
 }
