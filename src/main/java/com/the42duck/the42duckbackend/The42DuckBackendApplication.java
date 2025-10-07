@@ -17,7 +17,7 @@ public class The42DuckBackendApplication {
     CommandLineRunner run(UserRepository userRepository) {
         return args -> {
             // Criar um usuário de teste
-            User user = new User("jorge", "jorge@example.com");
+            User user = new User("jorge", "jorge@example.com", "123456");
             userRepository.save(user);
 
             // Mostrar todos os usuários
