@@ -1,4 +1,4 @@
-package com.the42duck.model;
+package com.the42duck.the42duckbackend.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -7,11 +7,21 @@ import jakarta.persistence.Id;
 
 @Entity
 public class User {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+
     private String username;
     private String email;
+
+    // Construtores
+    public User() {}
+
+    public User(String username, String email) {
+        this.username = username;
+        this.email = email;
+    }
 
     // Getters e Setters
     public Long getId() { return id; }
